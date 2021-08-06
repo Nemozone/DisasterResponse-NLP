@@ -36,4 +36,4 @@ There are 3 folders:
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Figure Eight for the data and Udacity for giving the necessary trainings.
+Must give credit to Figure Eight for the data and Udacity for giving the necessary trainings. Otherwise, feel free to use the app.
